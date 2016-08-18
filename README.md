@@ -17,5 +17,6 @@ A list of social good hackathons across the world
 ### Oceania
 
 
-### other
+### 2015 but yet unannounced for 2016
 - [BattleHack](battlehack.org)
+- [Hack For Good Gulbenkian lisbon](http://www.hackforgood.pt/)
